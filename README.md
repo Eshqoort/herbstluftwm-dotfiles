@@ -13,8 +13,8 @@
 
 **Dracula herbstluftwm:**
 ![Term](screenshots/term.png)
-![float](screenshots/term2.png)
-![Table](screenshots/table.png)
+![Term2](screenshots/term2.png)
+![Desktop](screenshots/table.png)
 
 
 
