@@ -38,7 +38,7 @@
    
    •wallpaper: feh
 
-   •screenshot: flameshot
+   •screenshot: flamesho
 
 
   **Main Keybinds:**
