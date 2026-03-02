@@ -12,9 +12,8 @@
 
 
 **Dracula herbstluftwm:**
-<img width="1919" height="1079" alt="term" src="https://github.com/user-attachments/assets/9004b4b7-4d58-49db-a399-3ce82b5d68d1" />
-<img width="1919" height="1079" alt="table" src="https://github.com/user-attachments/assets/8f88462b-f1ae-4f38-947d-15173a192f88" />
-<img width="1919" height="1079" alt="term2" src="https://github.com/user-attachments/assets/67cd92b7-a413-4a4c-8997-743237dbd671" />
+![Main View](screenshots/term.png)
+![Floating Window](screenshots/term.png)
 
 
 
